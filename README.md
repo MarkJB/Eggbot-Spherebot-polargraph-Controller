@@ -4,7 +4,8 @@ This is my Arduino Nano/Stepstick Eggbot/Shperebot/Polargraph control board. The
 
 This has been used sucessfully with a 3d printed Eggbot and Polargraph. Firmwares adapted for this board available in github.com/markjb.
 
-BoM:
+BoM
+
 | QTY | Description |
 | --- | ---|
 | 1 | PCB |
