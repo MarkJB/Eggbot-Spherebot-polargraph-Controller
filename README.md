@@ -4,7 +4,7 @@ CCNC 2015 Copyright Mark Benson etc etc
 
 This is my Arduino Nano/Stepstick Eggbot/Shperebot/Polargraph control board. The reason this uses an Arduino Nano and external stepstick drivers is that they can be found on ebay for not much money and I wanted this to be an affordable way to build the electronics for various drawing machines.
 
-This has been used sucessfully with a 3d printed Eggbot and Polargraph. Firmwares adapted for this board available in github.com/markjb. I've also seen it working with the Gocupi firmware and a Raspberry Pi
+This has been used sucessfully with a 3d printed Eggbot and Polargraph. Firmwares adapted for this board available in github.com/markjb. I've also seen it working with the Gocupi firmware.
 
 BoM
 
