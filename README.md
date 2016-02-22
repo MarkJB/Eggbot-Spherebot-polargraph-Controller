@@ -15,7 +15,7 @@ BoM
 | 2 | Stepstick stepper motor driver boards (DRV8825 or A4988) |
 | 2 | 100uF 35v Electrolitic Capacitor |
 | 4 | 8 way female header |
-| 2 | 15 way female header (these are hard to come by, but 16 way headers are much easier to find and work if you cut off one of the end pins) |
+| 2 | 15 way female header (these are hard to come by, but 16 way headers are much easier to find and will work if you cut off one of the end pins) |
 | 1 | 6 way male header |
 | 4 | 4 way male header |
 | 1 | 3 way male header |
