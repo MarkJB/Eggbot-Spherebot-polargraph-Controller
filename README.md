@@ -6,6 +6,7 @@ This has been used sucessfully with a 3d printed Eggbot and Polargraph. Firmware
 
 BoM:
 | QTY | Description |
+| --- | ---|
 | 1 | PCB |
 | 1 | Arduino Nano |
 | 2 | Stepstick stepper motor driver boards (DRV8825 or A4988) |
