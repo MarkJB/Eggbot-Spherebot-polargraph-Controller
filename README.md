@@ -13,7 +13,9 @@ Orientation of U1, U2 & U3 can be determined by matching the pin names.
 Orientation of C1 & C2 is negative to white half of silkscreen.
 
 P1 & P2 (Stepper motors) are wired (from pin 1) A1, A2, B1, B2
+
 P3 & P4 (End stops) are wired for 'Makerbot' style end stops and are wired (from pin 1) Vcc, Gnd, Gnd, Signal
+
 P5 (Servo) is wired (from pin 1) Signal, Vcc, Gnd
 
 BoM
