@@ -1,6 +1,6 @@
 CCNC 2015 Copyright Mark Benson etc etc
 
-![PCB](https://github.com/MarkJB/Eggbot-Spherebot-Polargraph-Controller/blob/master/drv8825_arduino_pro_pcb.png?raw=true)
+![PCB](https://github.com/MarkJB/Eggbot-Spherebot-Polargraph-Controller/blob/master/eggbot-spherebot-polargraph-controller_front.png)
 
 __Note: The v2.1 board is missing a power track between U2 & U3. You will need to solder a jumper wire between the Vin pins or Stepper1 (U2) will not move!__ (This has been fixed with v2.2)
 
