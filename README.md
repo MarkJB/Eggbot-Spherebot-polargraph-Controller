@@ -2,7 +2,7 @@ CCNC 2015 Copyright Mark Benson etc etc
 
 ![PCB](https://github.com/MarkJB/Eggbot-Spherebot-Polargraph-Controller/blob/master/drv8825_arduino_pro_pcb.png?raw=true)
 
-__Note: The v2.2 board is missing a power track between U2 & U3. You will need to solder a jumper wire between the Vin pins or Stepper1 (U2) will not move!__ (This has been fixed with v2.3)
+__Note: The v2.1 board is missing a power track between U2 & U3. You will need to solder a jumper wire between the Vin pins or Stepper1 (U2) will not move!__ (This has been fixed with v2.2)
 
 This is my Arduino Nano/Stepstick Eggbot/Shperebot/Polargraph control board. The reason this uses an Arduino Nano and external stepstick drivers is that they can be found on ebay for not much money and I wanted this to be an affordable way to build the electronics for various drawing machines.
 
@@ -43,6 +43,8 @@ EXT PWR = External Power. Enables or disables powering the Arduino from the DC s
 
 End stops are optional. Might be useful on an Eggbot/Spherebot.
 
-Designed in Kicad and custom kicad libs included.
+Designed in Kicad 4.0.x. Custom kicad libs included.
+
+PCBs manufactured by iTead Studios PCB prototyping service https://www.itead.cc/open-pcb/pcb-prototyping.html
 
 
