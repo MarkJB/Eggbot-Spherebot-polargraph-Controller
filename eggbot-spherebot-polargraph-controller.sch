@@ -34,13 +34,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Eggbot-Spherebot-Polargraph-Controller"
+Date "2016-03-06"
+Rev "2.2"
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "Copyright Mark Benson 2016"
+Comment2 "Released under the Creative Commons Attribution-NonCommercial-ShareAlike"
+Comment3 "CC BY-NC-SA 2016"
 Comment4 ""
 $EndDescr
 $Comp

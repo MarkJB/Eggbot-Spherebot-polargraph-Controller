@@ -1,4 +1,4 @@
-CCNC 2015 Copyright Mark Benson etc etc
+CC BY-NC-SA 2016 Copyright Mark Benson etc etc
 
 ![PCB](https://github.com/MarkJB/Eggbot-Spherebot-Polargraph-Controller/blob/master/eggbot-spherebot-polargraph-controller_front.png)
 
