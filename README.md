@@ -4,9 +4,9 @@ CC BY-NC-SA 2016 Copyright Mark Benson etc etc
 
 __Note: The v2.1 board is missing a power track between U2 & U3. You will need to solder a jumper wire between the Vin pins or Stepper1 (U2) will not move!__ (This has been fixed with v2.2)
 
-This is my Arduino Nano/Stepstick Eggbot/Shperebot/Polargraph control board. The reason this uses an Arduino Nano and external stepstick drivers is that they can be found on ebay for not much money and I wanted this to be an affordable way to build the electronics for various drawing machines.
+This is my Arduino Nano - Dual Stepstick drawing machine controller PCB for Eggbot/Shperebot/polargraph drawing machines. The reason this uses an Arduino Nano and external stepstick drivers is that they can be found on ebay for not much money and I wanted this to be an affordable way to build the electronics for various drawing machines.
 
-This has been used sucessfully with a 3d printed Eggbot and Polargraph. Firmwares adapted for this board available in github.com/markjb. I've also seen it working with the Gocupi firmware.
+This has been used sucessfully with a 3d printed Eggbot and polargraph. Firmwares adapted for this board available in github.com/markjb. I've also seen it working with the Gocupi firmware.
 
 Micro-stepping is software controlled and both steppers share the same 3 Arduino pins, so you only need configure those 3 pins to set the micro stepping for both steppers.
 
